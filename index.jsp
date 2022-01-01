@@ -7,7 +7,7 @@
 		%>
 	</head>
 	<body>
-		<h2><%= title %></h2>
+		<h2><%= title %>hello</h2>
 		<p>
 			If you see this, the example war-file was correctly deployed! Congrats!
 		</p>
